@@ -1,21 +1,21 @@
 [![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)](https://deepakmaindola.io)
-<h1 align="center">Hi 👋, I'm Deepak Maindola</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋, I'm Junaid Khan</h1>
+<h3 align="center">A passionate Full- stack developer from Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakmaindola&label=Profile%20views&color=0e75b6&style=flat" alt="deepakmaindola" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=deepakmaindola&label=Profile%20views&color=0e75b6&style=flat" alt="junaidkhan" /> </p>
 
-- 🔭 I’m currently working on **delievery website**
 
-- 🌱 I’m currently learning **Java Script , Back-End Website Development**
+
+- 🌱 I’m currently learning **Java , Spring Boot , Back-End Java Development**
 
 - 👨‍💻 All of my projects are available at [https://deepakmaindola.github.io/portfolio/](https://deepakmaindola.github.io/portfolio/)
 
 - 💬 Ask me about **Front-End Website Development**
 
-- 📫 How to reach me **deepakmaindola.linkedin@gmail.com**
+- 📫 How to reach me **khan619junaid@gmail.com**
 
-- 📄 Know about my experiences [https://deepakmaindola.github.io/portfolio/](https://deepakmaindola.github.io/portfolio/)
+<!-- - 📄 Know about my experiences [https://deepakmaindola.github.io/portfolio/](https://deepakmaindola.github.io/portfolio/)-->
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
